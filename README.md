@@ -6,7 +6,7 @@ Repositório criado para a aula de versionamento do Bootcamp4All do Grupo Integr
 O objetivo é praticar os comandos básicos do Git, como:
 
 - Git add `git add`
-- Git add `git commit -m "mensagem de commit"`
+- Git commit `git commit -m "mensagem de commit"`
 - Git push `git push`
 - Git pull `git pull`
 - Configuraçãp de usuário:
